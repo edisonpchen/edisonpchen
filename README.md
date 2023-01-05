@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Eddy. 👋
 ### I'm interested in security and software engineering.
 <!--
 **edisonpchen/edisonpchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
