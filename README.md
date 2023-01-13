@@ -1,6 +1,6 @@
 ### Hi there, I'm Eddy. 👋
-### I'm interested in security and software engineering.
-[Go to the Support Web Site](https://support.west-wind.com)
+### [I'm interested in security and software engineering.](https://www.linkedin.com/in/edisonpchen/)
+
 <!--
 **edisonpchen/edisonpchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
