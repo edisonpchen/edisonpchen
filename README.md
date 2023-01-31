@@ -1,4 +1,4 @@
-### Hi there, I'm Eddy. 👋
+## Hi there, I'm Eddy. 👋
 ### [I'm interested in security and software engineering.](https://www.linkedin.com/in/edisonpchen/)
 
 <!--
