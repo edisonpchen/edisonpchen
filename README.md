@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... how to make windows 10 not delete my keylogger code
 - 💬 Ask me about ...
 - 📫 How to reach me: ...chenedison0@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... My birthday is on Halloween 🎃
 -->
