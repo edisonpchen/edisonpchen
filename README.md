@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...chenedison0@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... My birthday is on Halloween 🎃
-- PLEASE
+- PLEASE GIVE ME A RETURN OFFER
