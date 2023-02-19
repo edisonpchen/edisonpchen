@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on advanced keylogger
 - 🌱 I’m currently learning distributed systems and database systems
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ... anything
 - 🤔 I’m looking for help with ... how to make windows 10 not delete my keylogger code
 - 💬 Ask me about ... my past work experience as a software engineer and security analyst intern
 - 📫 How to reach me: ...chenedison0@gmail.com
