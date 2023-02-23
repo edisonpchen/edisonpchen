@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... My birthday is on Halloween 🎃
 - PLEASE GIVE ME A RETURN OFFER
 - I'm so unhappy
+should I put a link to my resume here?
 
